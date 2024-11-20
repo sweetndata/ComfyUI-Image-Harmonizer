@@ -1,0 +1,21 @@
+[project]
+name = "ComfyUI-Image-Harmonizer"
+description = "NODES:Image-Harmonizer"
+version = "0.1.0"
+license = {text = "MIT License"}
+dependencies  = []
+
+[project.urls]
+Repository = "https://github.com/sweetndata/ComfyUI-Image-Harmonizer"
+
+[tool.comfy]
+PublisherId = "sweetndata"
+DisplayName = "ComfyUI-Image-Harmonizer"
+Icon = ""
+
+[tool.poetry]
+name = "ComfyUI-Image-Harmonizer"
+version = "0.1.0"
+description = ""
+authors = ["Jason Sim <sjskoko@gmail.com>"]
+readme = "README.md"
