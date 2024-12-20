@@ -16,6 +16,6 @@ Icon = ""
 [tool.poetry]
 name = "ComfyUI-Image-Harmonizer"
 version = "0.1.0"
-description = ""
+description = "NODES:Image-Harmonizer"
 authors = ["Jason Sim <sjskoko@gmail.com>"]
 readme = "README.md"
